@@ -1,3 +1,2 @@
-# Hi I'm Green Sheep 
-
-nostr:nevent1qqsgeg5zl29wz2ucxl54dqjk3r4l5grmz4hp62y07xssu5mtwlpx95cpz3mhxue69uhhyetvv9ujumn0wd68ytnzvupzpjvc54ee7p8hlleq932fv2490q4nfm93p4hezk7lm46c993mlyt3qvzqqqqqqyk3qkct
+## Hi I'm Green Sheep
+[Test](nostr:nevent1qqsgeg5zl29wz2ucxl54dqjk3r4l5grmz4hp62y07xssu5mtwlpx95cpz3mhxue69uhhyetvv9ujumn0wd68ytnzvupzpjvc54ee7p8hlleq932fv2490q4nfm93p4hezk7lm46c993mlyt3qvzqqqqqqyk3qkct).
